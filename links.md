@@ -2,10 +2,43 @@
  - [autoai/autokeras](https://autokeras.com/)
  - [iid 관련](https://www.samsungsds.com/kr/insights/data_science.html)
  - [DeepStory: Video Story QA by Deep Embedded Memory Networks](https://arxiv.org/ftp/arxiv/papers/1707/1707.00836.pdf)
-   * 4 Jul 2017
- - [Escaping the Gradient Vanishing: Periodic Alternatives of Softmax in Attention Mechanism](https://arxiv.org/pdf/2108.07153.pdf)  
-   * 16 Aug 2021  
-   * The statistical assumption that the input is **normal distributed** supports the gradient stability of Softmax.  
+   - 4 Jul 2017
+ - [Escaping the Gradient Vanishing: Periodic Alternatives of Softmax in Attention Mechanism](https://arxiv.org/abs/2108.07153)  
+   - 16 Aug 2021  
+   - The statistical assumption that the input is **normal distributed** supports the gradient stability of Softmax.  
  -> normal distribution과 softmax의 관계??
  - [depth prediction](https://goodgodgd.github.io/ian-flow/archivers/vode-survey)
- 
+ - [Transformer in Convolutional Neural Networks](https://arxiv.org/abs/2106.03180)
+   - 9 Jun 2021
+ - [CMT: Convolutional Neural Networks Meet Vision Transformers](https://arxiv.org/abs/2107.06263)
+   - 15 Jul 2021
+ - [MNIST-Vit](https://towardsdatascience.com/a-demonstration-of-using-vision-transformers-in-pytorch-mnist-handwritten-digit-recognition-407eafbc15b0)
+ - [Vit-pytorch](https://github.com/kriventsov/vit-pytorch)
+ - [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/abs/2010.11929)
+   - 22 Oct 2020
+   - [한글 논문 리뷰](https://kmhana.tistory.com/27)
+ - [Transformer, 진짜 필요한건가?](https://ambitious-posong.tistory.com/129)
+    - [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
+      - 17 May 2021
+      - Our comparisons show that self-attention is **not critical** for Vision Transformers, as gMLP can achieve the same accuracy
+ - [Transformer - Harder, Better, Faster, Stronger](https://blog.pingpong.us/transformer-review/)
+   - transformer에 대한 개괄적인 설명
+ - [GELUs](https://hongl.tistory.com/236)
+   - GELU에 대한 설명
+   - Gaussian Error Linear Units
+   - [paper](https://arxiv.org/abs/1606.08415)
+     - 27 Jun 2016
+ - [DCN](https://eehoeskrap.tistory.com/406)
+   - Deformable Convolution Networks
+   - 한글 리뷰
+ - [Inductive bias](https://mino-park7.github.io/nlp/2019/03/18/emnlp-2018-%EC%A3%BC%EC%9A%94-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A6%AC/)
+   - [additional](https://robot-vision-develop-story.tistory.com/29)
+ - [numerical stability](https://ko.d2l.ai/chapter_deep-learning-basics/numerical-stability-and-init.html)
+   - d2l.ai (번역본)
+   - 그래디언트 소실(vanishing)과 폭발(exploding)
+ - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+   - 10 Dec 2015
+   - [한글 논문 리뷰](https://jxnjxn.tistory.com/22)
+ - [On the Relationship between Self-Attention and Convolutional Layers](https://arxiv.org/abs/1911.03584)
+   - 8 Nov 2019
+   - [한글 논문 리뷰](https://velog.io/@sjinu/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-ON-THE-RELATIONSHIP-BETWEEN-SELF-ATTENTIONAND-CONVOLUTIONAL-LAYERS)
