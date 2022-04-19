@@ -16,6 +16,7 @@
  - [Inductive bias](https://mino-park7.github.io/nlp/2019/03/18/emnlp-2018-%EC%A3%BC%EC%9A%94-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A6%AC/)
    - [additional](https://robot-vision-develop-story.tistory.com/29)
  - [autoai/autokeras](https://autokeras.com/)
+ - 
 ## transformer
  - [Transformer, 진짜 필요한건가?](https://ambitious-posong.tistory.com/129)
     - [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
@@ -52,3 +53,8 @@
  - [Projective Transformations](https://blog.daum.net/shksjy/235)
  - [Homogeneous Coordinates](https://blog.daum.net/shksjy/229)
  - 
+# algorithm
+ - [PageRank](https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9D%B4%EC%A7%80%EB%9E%AD%ED%81%AC)
+
+# computer science
+ - [Human Computer Interaction](https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B0%84-%EC%BB%B4%ED%93%A8%ED%84%B0_%EC%83%81%ED%98%B8_%EC%9E%91%EC%9A%A9)
