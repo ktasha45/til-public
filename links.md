@@ -16,6 +16,16 @@
  - [Inductive bias](https://mino-park7.github.io/nlp/2019/03/18/emnlp-2018-%EC%A3%BC%EC%9A%94-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A6%AC/)
    - [additional](https://robot-vision-develop-story.tistory.com/29)
  - [autoai/autokeras](https://autokeras.com/)
+ - [12 Graphs That Explain the State of AI in 2022](https://spectrum.ieee.org/artificial-intelligence-index)
+   - ieee spectrum
+   - A Plateau in Computer Vision? (4번)
+ - [Universal Approximation Theorem](https://3months.tistory.com/140)
+   - [youtube 한국어 설명](https://www.youtube.com/watch?v=vnkGn4r62Q8)
+ - [Papers You Must Read](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
+ - [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers#understanding--generalization--transfer=)
+ - [Deepest Documentation](https://deepestdocs.readthedocs.io/en/latest/)
+ - [error backpropagation 구현](https://jasu.tistory.com/135)
+ - [Visualizing the Loss Landscape of Neural Nets](https://seongkyun.github.io/papers/2019/02/21/Vis_Loss_NN/)
 ## transformer
  - [Transformer, 진짜 필요한건가?](https://ambitious-posong.tistory.com/129)
     - [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
@@ -26,6 +36,9 @@
  - [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
    - 10 Jan 2022
    - [한글 논문 리뷰](https://blog.kubwa.co.kr/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-a-convnet-for-the-2020s-9b45ac666d04)
+ - [How Do Vision Transformers Work?](https://arxiv.org/abs/2202.06709)
+   - 14 Feb 2022
+   - [한글 논문 리뷰](https://seongkyun.github.io/papers/2019/02/21/Vis_Loss_NN/)
 ## vision
  - [VQA 관련](https://visualqa.org/)  
  - [DeepStory: Video Story QA by Deep Embedded Memory Networks](https://arxiv.org/ftp/arxiv/papers/1707/1707.00836.pdf)
@@ -54,4 +67,23 @@
  - [Transformation](https://blog.daum.net/shksjy/228)
  - [Projective Transformations](https://blog.daum.net/shksjy/235)
  - [Homogeneous Coordinates](https://blog.daum.net/shksjy/229)
- - 
+ - [Why is the determinant of a rotation matrix equal to 1](https://math.stackexchange.com/questions/503047/why-is-the-determinant-of-a-rotation-matrix-equal-to-1)
+ - [Rotation matrix 유도](https://o-tantk.github.io/posts/derive-rotation-matrix/)
+ - [Gimbal Lock](https://homoefficio.github.io/2015/07/17/Gimbal-Lock/)
+ 
+# algorithm
+ - [PageRank](https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9D%B4%EC%A7%80%EB%9E%AD%ED%81%AC)
+
+# computer science
+ - [Human Computer Interaction](https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B0%84-%EC%BB%B4%ED%93%A8%ED%84%B0_%EC%83%81%ED%98%B8_%EC%9E%91%EC%9A%A9)
+ - [google c++ style](https://google.github.io/styleguide/cppguide.html#Conditionals)
+# contest, lecture
+ - [2022 날씨 빅데이터 콘테스트](https://www.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=100&CONTENTS_NO=1&SITE_NO=2&P_TAB_NO=&TAB_NO=&BOARD_SEQ=4&BOARD_CATEGORY_NO=&BBS_SEQ=24203&pageNo=2)
+ - [2022년 경기도 공공데이터 활용분석 아이디어 공모전](https://www.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=100&CONTENTS_NO=1&SITE_NO=2&P_TAB_NO=&TAB_NO=&BOARD_SEQ=4&BOARD_CATEGORY_NO=&BBS_SEQ=24178&pageNo=4)
+ - [2022학년도 1학기 온라인 공개강좌 안내](https://www.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=100&CONTENTS_NO=1&SITE_NO=2&P_TAB_NO=&TAB_NO=&BOARD_SEQ=4&BOARD_CATEGORY_NO=&BBS_SEQ=24164&pageNo=4)
+ - [빅데이터 활용 국민행복 서비스발굴·창업 경진대회](https://www.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=100&CONTENTS_NO=1&SITE_NO=2&P_TAB_NO=&TAB_NO=&BOARD_SEQ=4&BOARD_CATEGORY_NO=&BBS_SEQ=24140&pageNo=1)
+ - [공동 AI 경진대회](https://swedu.cau.ac.kr/board/view?menuid=001006002&boardtypeid=7&boardid=577)
+ - [오승상](https://www.youtube.com/watch?v=dkm0RrmnH4s&list=PLvbUC2Zh5oJvByu9KL82bswYT2IKf0K1M)
+
+ # things to watch
+ - [휴리스틱](https://ko.wikipedia.org/wiki/%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1_%EC%9D%B4%EB%A1%A0)
