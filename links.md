@@ -23,6 +23,9 @@
       - Our comparisons show that self-attention is **not critical** for Vision Transformers, as gMLP can achieve the same accuracy
  - [Transformer - Harder, Better, Faster, Stronger](https://blog.pingpong.us/transformer-review/)
    - transformer에 대한 개괄적인 설명
+ - [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
+   - 10 Jan 2022
+   - [한글 논문 리뷰](https://blog.kubwa.co.kr/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-a-convnet-for-the-2020s-9b45ac666d04)
 ## vision
  - [VQA 관련](https://visualqa.org/)  
  - [DeepStory: Video Story QA by Deep Embedded Memory Networks](https://arxiv.org/ftp/arxiv/papers/1707/1707.00836.pdf)
