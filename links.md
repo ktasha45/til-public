@@ -62,6 +62,7 @@
  - [On the Relationship between Self-Attention and Convolutional Layers](https://arxiv.org/abs/1911.03584)
    - 8 Nov 2019
    - [한글 논문 리뷰](https://velog.io/@sjinu/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-ON-THE-RELATIONSHIP-BETWEEN-SELF-ATTENTIONAND-CONVOLUTIONAL-LAYERS)
+
 # math
 ## 수치해석
  - [Transformation](https://blog.daum.net/shksjy/228)
@@ -77,13 +78,25 @@
 # computer science
  - [Human Computer Interaction](https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B0%84-%EC%BB%B4%ED%93%A8%ED%84%B0_%EC%83%81%ED%98%B8_%EC%9E%91%EC%9A%A9)
  - [google c++ style](https://google.github.io/styleguide/cppguide.html#Conditionals)
+
 # contest, lecture
  - [2022 날씨 빅데이터 콘테스트](https://www.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=100&CONTENTS_NO=1&SITE_NO=2&P_TAB_NO=&TAB_NO=&BOARD_SEQ=4&BOARD_CATEGORY_NO=&BBS_SEQ=24203&pageNo=2)
+   - 접수기간: 4.25. ~ 5.30.
  - [2022년 경기도 공공데이터 활용분석 아이디어 공모전](https://www.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=100&CONTENTS_NO=1&SITE_NO=2&P_TAB_NO=&TAB_NO=&BOARD_SEQ=4&BOARD_CATEGORY_NO=&BBS_SEQ=24178&pageNo=4)
- - [2022학년도 1학기 온라인 공개강좌 안내](https://www.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=100&CONTENTS_NO=1&SITE_NO=2&P_TAB_NO=&TAB_NO=&BOARD_SEQ=4&BOARD_CATEGORY_NO=&BBS_SEQ=24164&pageNo=4)
+   - 접수기간: 5.2.(월) ~ 6.10.(금)
+ - [2022학년도 1학기 온라인 공개강좌 안내](https://www.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=100&CONTENTS_NO=1&SITE_NO=2&P_TAB_NO=&TAB_NO=&BOARD_SEQ=4&BOARD_CATEGORY_NO=&BBS_SEQ=24164&pageNo=4)  
+   - http://www.kmooc.kr/school/CAUk/
+   - 2022.04.11 ~ 2022.07.22
  - [빅데이터 활용 국민행복 서비스발굴·창업 경진대회](https://www.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=100&CONTENTS_NO=1&SITE_NO=2&P_TAB_NO=&TAB_NO=&BOARD_SEQ=4&BOARD_CATEGORY_NO=&BBS_SEQ=24140&pageNo=1)
+   - 접수기간: 4.4.(월) ~ 5.31.(화)
  - [공동 AI 경진대회](https://swedu.cau.ac.kr/board/view?menuid=001006002&boardtypeid=7&boardid=577)
  - [오승상](https://www.youtube.com/watch?v=dkm0RrmnH4s&list=PLvbUC2Zh5oJvByu9KL82bswYT2IKf0K1M)
+ - [aiis 2022 하계인턴 구글폼](https://docs.google.com/forms/d/e/1FAIpQLSeZhl5ZJYxOjjiH2T9S3zy4lxCuybNAeXb87eMad_8bO3AX9w/viewform)
+ - [오픈소스SW 관련 해외 온라인 교육 프로그램](https://swedu.cau.ac.kr/core/program/programview?menuid=001004001001&programgroupno=2&programno=537)
+   - 신청기간	2022-04-29 ~ 2022-05-20
+   - 진행기간	2022-05-21 ~ 2022-12-31
+ - [페스타 특강](https://swedu.cau.ac.kr/board/view?menuid=001005005&pagesize=10&boardtypeid=7&boardid=581)
+   - 신청 마감일 : 2022년 5월 24일
 
  # things to watch
  - [휴리스틱](https://ko.wikipedia.org/wiki/%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1_%EC%9D%B4%EB%A1%A0)
