@@ -92,11 +92,15 @@
  - [공동 AI 경진대회](https://swedu.cau.ac.kr/board/view?menuid=001006002&boardtypeid=7&boardid=577)
  - [오승상](https://www.youtube.com/watch?v=dkm0RrmnH4s&list=PLvbUC2Zh5oJvByu9KL82bswYT2IKf0K1M)
  - [aiis 2022 하계인턴 구글폼](https://docs.google.com/forms/d/e/1FAIpQLSeZhl5ZJYxOjjiH2T9S3zy4lxCuybNAeXb87eMad_8bO3AX9w/viewform)
+   - 신청기간: 4.27.(수) ~ 5.15.(금)
  - [오픈소스SW 관련 해외 온라인 교육 프로그램](https://swedu.cau.ac.kr/core/program/programview?menuid=001004001001&programgroupno=2&programno=537)
    - 신청기간	2022-04-29 ~ 2022-05-20
    - 진행기간	2022-05-21 ~ 2022-12-31
  - [페스타 특강](https://swedu.cau.ac.kr/board/view?menuid=001005005&pagesize=10&boardtypeid=7&boardid=581)
    - 신청 마감일 : 2022년 5월 24일
+ - [kairi 2022 하계인턴 신청](https://gsai.kaist.ac.kr/summer-2022-kaist-ai-research-internship-kairi-eng-notice/)
+   - 10 May 2022 (Tue) ~ 18 May 2022 (Wed)
+
 
  # things to watch
  - [휴리스틱](https://ko.wikipedia.org/wiki/%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1_%EC%9D%B4%EB%A1%A0)
