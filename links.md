@@ -62,6 +62,8 @@
  - [On the Relationship between Self-Attention and Convolutional Layers](https://arxiv.org/abs/1911.03584)
    - 8 Nov 2019
    - [한글 논문 리뷰](https://velog.io/@sjinu/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-ON-THE-RELATIONSHIP-BETWEEN-SELF-ATTENTIONAND-CONVOLUTIONAL-LAYERS)
+ - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+   - 8 Jun 2015
 
 # math
 ## 수치해석
