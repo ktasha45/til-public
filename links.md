@@ -62,14 +62,14 @@
  - [On the Relationship between Self-Attention and Convolutional Layers](https://arxiv.org/abs/1911.03584)
    - 8 Nov 2019
    - [한글 논문 리뷰](https://velog.io/@sjinu/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-ON-THE-RELATIONSHIP-BETWEEN-SELF-ATTENTIONAND-CONVOLUTIONAL-LAYERS)
- - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+- [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
    - 8 Jun 2015
 
 # math
 ## 수치해석
- - [Transformation](https://blog.daum.net/shksjy/228)
- - [Projective Transformations](https://blog.daum.net/shksjy/235)
- - [Homogeneous Coordinates](https://blog.daum.net/shksjy/229)
+- [Transformation](https://blog.daum.net/shksjy/228)
+- [Projective Transformations](https://blog.daum.net/shksjy/235)
+- [Homogeneous Coordinates](https://blog.daum.net/shksjy/229)
  - [Why is the determinant of a rotation matrix equal to 1](https://math.stackexchange.com/questions/503047/why-is-the-determinant-of-a-rotation-matrix-equal-to-1)
  - [Rotation matrix 유도](https://o-tantk.github.io/posts/derive-rotation-matrix/)
  - [Gimbal Lock](https://homoefficio.github.io/2015/07/17/Gimbal-Lock/)
@@ -92,11 +92,12 @@
  - [빅데이터 활용 국민행복 서비스발굴·창업 경진대회](https://www.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=100&CONTENTS_NO=1&SITE_NO=2&P_TAB_NO=&TAB_NO=&BOARD_SEQ=4&BOARD_CATEGORY_NO=&BBS_SEQ=24140&pageNo=1)
    - 접수기간: 4.4.(월) ~ 5.31.(화)
  - [공동 AI 경진대회](https://swedu.cau.ac.kr/board/view?menuid=001006002&boardtypeid=7&boardid=577)
+    - 예선 8월 중
  - [오승상](https://www.youtube.com/watch?v=dkm0RrmnH4s&list=PLvbUC2Zh5oJvByu9KL82bswYT2IKf0K1M)
  - [aiis 2022 하계인턴 구글폼](https://docs.google.com/forms/d/e/1FAIpQLSeZhl5ZJYxOjjiH2T9S3zy4lxCuybNAeXb87eMad_8bO3AX9w/viewform)
    - 신청기간: 4.27.(수) ~ 5.15.(금)
  - [오픈소스SW 관련 해외 온라인 교육 프로그램](https://swedu.cau.ac.kr/core/program/programview?menuid=001004001001&programgroupno=2&programno=537)
-   - 신청기간	2022-04-29 ~ 2022-05-20
+   - 신청기간	2022-04-29 ~ 2022-05-27
    - 진행기간	2022-05-21 ~ 2022-12-31
  - [페스타 특강](https://swedu.cau.ac.kr/board/view?menuid=001005005&pagesize=10&boardtypeid=7&boardid=581)
    - 신청 마감일 : 2022년 5월 24일
@@ -106,3 +107,7 @@
 
  # things to watch
  - [휴리스틱](https://ko.wikipedia.org/wiki/%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1_%EC%9D%B4%EB%A1%A0)
+
+
+ # etc
+ - [파이썬 markdown, html 변환기](https://freernd.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%BC-HTML-%EB%B3%80%ED%99%98-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1)
